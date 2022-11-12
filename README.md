@@ -1,3 +1,4 @@
+## Industrial AI Hackathon hosted by IISC ##
 The first ever industrial AI hackathon and bootcamp in India was organized at PES University by the Indian Institute of Science (IISC) in collaboration with an industry consortium of Flutura, Hydac.
 
 Being one of the shortlisted hundred students to attend, I learnt about Digital twins, AI constructs,Trends in Industrial 4.0, automated anomalous behavor detection,automated asset failure clustering, drone and vision analytics, IoT sensors and controller.
